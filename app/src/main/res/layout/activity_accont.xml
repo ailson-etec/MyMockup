@@ -54,18 +54,33 @@
         android:layout_marginTop="460dp"
         android:background="@drawable/botao_circulo" />
 
+    <EditText
+        android:hint="    seu nome"
+        android:layout_width="255dp"
+        android:layout_height="40dp"
+        android:background="@drawable/borda"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="320dp"
+        />
 
 
     <EditText
-
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="10dp"
+        android:hint="    seu e-mail"
+        android:layout_width="255dp"
+        android:layout_height="40dp"
         android:background="@drawable/borda"
-        android:inputType="textPersonName"/>
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="380dp"
+        />
 
 
-
-
+    <EditText
+        android:hint="    sua senha"
+        android:layout_width="255dp"
+        android:layout_height="40dp"
+        android:background="@drawable/borda"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="440dp"
+        />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
