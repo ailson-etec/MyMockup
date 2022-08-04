@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyMockup/app/src/main/res/drawable/borda.xml" value="0.269" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyMockup/app/src/main/res/drawable/botao_circulo.xml" value="0.2985" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyMockup/app/src/main/res/drawable/circulo.xml" value="0.2985" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyMockup/app/src/main/res/drawable/ic_seta.xml" value="0.2985" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyMockup/app/src/main/res/drawable/retangulo.xml" value="0.2985" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyMockup/app/src/main/res/layout/activity_accont.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyMockup/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyMockup/app/src/main/res/layout/activity_splash.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyMockup/app/src/main/res/layout/activity_splash2.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/MyMockup/app/src/main/res/layout/activity_start.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>
